@@ -1,0 +1,15 @@
+sudo apt update
+sudo apt upgrade
+sudo pip3 install --upgrade setuptools
+
+sudo raspi-config
+   On Interfacing Options enable I2C And SPI
+
+pip3 install RPI.GPIO
+pip3 install adafruit-blinka
+
+   Run Blinka Test
+
+sudo pip3 install adafruit-circuitpython-rfm9x
+
+   Run Test and if passes then script to send and receive
