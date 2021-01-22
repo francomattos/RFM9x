@@ -1,6 +1,6 @@
 # RFM9x Lora Radio - Arduino to Raspberry Pi Transmission
 
-Bathouse project Valencia
+Bathouse project at Valencia College
 
 This includes the Adafruit libraries of known functionality as well as additional scripts with examples.
 
