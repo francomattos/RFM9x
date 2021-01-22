@@ -14,6 +14,7 @@ RESET = DigitalInOut(board.D25)
 spi = busio.SPI(board.SCK, MOSI=board.MOSI, MISO=board.MISO)
 rfm9x = adafruit_rfm9x.RFM9x(spi, CS, RESET, 915.0)
 rfm9x.tx_power = 23
+# It is important to set CRC to true, turned off by default
 rfm9x.enable_crc = True
 
 # Send hi every 3 seconds
