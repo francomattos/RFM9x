@@ -8,9 +8,9 @@ This includes the Adafruit libraries of known functionality as well as additiona
 
 Pin configuration for [Raspberry Pi][pischema_page] and [Arduino][arduinoschema_page]:
 
-[![N|Solid](https://cdn-learn.adafruit.com/assets/assets/000/091/522/original/raspberry_pi_rfm9x_bb_2.png)]
+![N|Solid](https://cdn-learn.adafruit.com/assets/assets/000/091/522/original/raspberry_pi_rfm9x_bb_2.png)
 
-[![N|Solid](https://cdn-learn.adafruit.com/assets/assets/000/040/615/large1024/adafruit_products_rfm69_bb.png)]
+![N|Solid](https://cdn-learn.adafruit.com/assets/assets/000/040/615/large1024/adafruit_products_rfm69_bb.png)
 
 ### Raspberry Setup
 
