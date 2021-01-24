@@ -9,7 +9,7 @@ This includes the Adafruit libraries of known functionality as well as additiona
 Pin configuration for [Raspberry Pi][pischema_page] and [Arduino][arduinoschema_page]:
 
 <img src="https://cdn-learn.adafruit.com/assets/assets/000/091/522/original/raspberry_pi_rfm9x_bb_2.png" alt="Raspberry Pi Pinout"
-	title="Raspberry Pi Pinout" width="150" height="100" />
+	title="Raspberry Pi Pinout" width="350" />
 
 ![N|Solid](https://cdn-learn.adafruit.com/assets/assets/000/040/615/large1024/adafruit_products_rfm69_bb.png)
 
